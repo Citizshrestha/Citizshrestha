@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@citizshrestha" target="blank"><img src="https://img.shields.io/twitter/follow/@citizshrestha?logo=twitter&style=for-the-badge" alt="@citizshrestha" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
